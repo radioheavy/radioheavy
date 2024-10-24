@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Merhaba+👋+Ben+Oktay;Umarım+Faydalı+Bir+Developer+Olurum&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Merhaba+👋+Ben+Oktay;Data+Driven+Intelligible+Insights+Olurum&center=true&width=380&height=50">
 
   <p>
     <a href="https://komarev.com/ghpvc/?username=radioheavy">
