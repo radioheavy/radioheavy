@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6E57F7&center=true&vCenter=true&random=false&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%92%BB;Data+Driven+Insights+%F0%9F%93%8A;Problem+Solver+%F0%9F%A7%A9;Tech+Enthusiast+%F0%9F%9A%80)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&height=100&lines=Code+is+Poetry+in+Motion+%E2%9C%A8;Think+Different%2C+Create+Better+%F0%9F%92%AD;Innovation+Never+Sleeps+%F0%9F%8C%8C;Dream+Big%2C+Code+Bigger+%F0%9F%9A%80;Turn+Coffee+into+Code+%E2%98%95;Debug+Life's+Challenges+%F0%9F%A7%A9)](https://git.io/typing-svg)
   
   <a href="https://github.com/radioheavy">
     <img src="https://github-widgetbox.vercel.app/api/profile?username=radioheavy&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub WildCard"/>
