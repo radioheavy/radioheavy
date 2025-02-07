@@ -81,20 +81,6 @@ Other       2 hrs 5 mins    ██░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-## 🎓 Sertifikalar & Başarılar
-
-<div align="center">
-  <a href="SERTIFIKA_LINKI">
-    <img src="https://img.shields.io/badge/Microsoft_Certified-Solutions_Developer-blue?style=for-the-badge&logo=microsoft" alt="Microsoft">
-  </a>
-  <a href="SERTIFIKA_LINKI">
-    <img src="https://img.shields.io/badge/AWS-Certified_Developer-orange?style=for-the-badge&logo=amazon-aws" alt="AWS">
-  </a>
-  <a href="SERTIFIKA_LINKI">
-    <img src="https://img.shields.io/badge/MongoDB-Database_Administrator-green?style=for-the-badge&logo=mongodb" alt="MongoDB">
-  </a>
-</div>
-
 ## 📫 İletişim & Sosyal Medya
 
 <div align="center">
