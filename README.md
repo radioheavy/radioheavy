@@ -452,19 +452,6 @@ Other        2 hrs 5 mins    ██░░░░░░░░░░░░░░░
 
 <br>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/radioheavy/radioheavy/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<br>
-
----
-
-<br>
 
 ## 💖 Support My Work
 
