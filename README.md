@@ -54,7 +54,7 @@ class Developer {
     frontend: ["React", "Next.js", "React Native", "TailwindCSS", "Redux"],
     backend: ["Node.js", ".NET Core", "Express", "GraphQL", "REST APIs"],
     mobile: ["iOS (Swift)", "React Native", "Xcode"],
-    cloud: ["AWS", "Vercel", "Docker", "CI/CD"],
+    cloud: [ "Vercel", "Docker", "CI/CD"],
     databases: ["PostgreSQL", "MongoDB", "Redis", "SQLite"]
   };
 
@@ -172,10 +172,6 @@ class Developer {
       <br>Node.js
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-      <br>Express
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
       <br>C#
     </td>
@@ -229,14 +225,7 @@ class Developer {
       <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
       <br>Redis
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
-      <br>SQLite
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
+
   </tr>
 </table>
 
@@ -244,10 +233,6 @@ class Developer {
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-      <br>AWS
-    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
       <br>Docker
@@ -259,10 +244,6 @@ class Developer {
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <br>GitHub
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="Actions" />
@@ -290,14 +271,6 @@ class Developer {
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="npm" />
       <br>npm
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
-      <br>Vite
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=webpack" width="48" height="48" alt="Webpack" />
-      <br>Webpack
     </td>
   </tr>
 </table>
@@ -337,99 +310,6 @@ class Developer {
 
 <br>
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-<!-- Bu bölüme kendi projelerini ekleyebilirsin -->
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🚀 Project Name 1</h3>
-      <br>
-      <a href="https://github.com/radioheavy" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=radioheavy&repo=radioheavy&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb" width="100%" />
-      </a>
-      <br>
-      <p align="center">
-        <a href="https://github.com/radioheavy" target="_blank">
-          <img src="https://img.shields.io/badge/Code-667eea?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="https://github.com/radioheavy" target="_blank">
-          <img src="https://img.shields.io/badge/Live-f093fb?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </p>
-      <p><strong>TypeScript, React, Node.js</strong> - Brief description of your awesome project</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎯 Project Name 2</h3>
-      <br>
-      <a href="https://github.com/radioheavy" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=radioheavy&repo=radioheavy&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb" width="100%" />
-      </a>
-      <br>
-      <p align="center">
-        <a href="https://github.com/radioheavy" target="_blank">
-          <img src="https://img.shields.io/badge/Code-667eea?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="https://github.com/radioheavy" target="_blank">
-          <img src="https://img.shields.io/badge/Live-f093fb?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </p>
-      <p><strong>React Native, Swift</strong> - Brief description of your awesome project</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">💡 Project Name 3</h3>
-      <br>
-      <a href="https://github.com/radioheavy" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=radioheavy&repo=radioheavy&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb" width="100%" />
-      </a>
-      <br>
-      <p align="center">
-        <a href="https://github.com/radioheavy" target="_blank">
-          <img src="https://img.shields.io/badge/Code-667eea?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="https://github.com/radioheavy" target="_blank">
-          <img src="https://img.shields.io/badge/Live-f093fb?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </p>
-      <p><strong>C#, .NET Core, PostgreSQL</strong> - Brief description of your awesome project</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ Project Name 4</h3>
-      <br>
-      <a href="https://github.com/radioheavy" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=radioheavy&repo=radioheavy&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb" width="100%" />
-      </a>
-      <br>
-      <p align="center">
-        <a href="https://github.com/radioheavy" target="_blank">
-          <img src="https://img.shields.io/badge/Code-667eea?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="https://github.com/radioheavy" target="_blank">
-          <img src="https://img.shields.io/badge/Live-f093fb?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </p>
-      <p><strong>Next.js, GraphQL, AWS</strong> - Brief description of your awesome project</p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<a href="https://github.com/radioheavy?tab=repositories" target="_blank">
-  <img src="https://img.shields.io/badge/View%20All%20Projects-667eea?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
-</a>
-
-</div>
-
-<br>
-
----
-
-<br>
 
 ## 📈 Weekly Development Activity
 
