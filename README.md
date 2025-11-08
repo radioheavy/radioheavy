@@ -80,27 +80,6 @@ class Developer {
 
 ---
 
-## 📊 GitHub Statistics
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=radioheavy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=radioheavy&hide_border=true&background=0D1117&ring=667eea&fire=667eea&currStreakLabel=667eea" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=radioheavy&bg_color=0D1117&color=667eea&line=667eea&point=667eea&area=false&hide_border=true" alt="Contribution Graph" />
-  
-</div>
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
