@@ -7,15 +7,11 @@
 </p>
 
 <div align="center">
-
   [![Profile Views](https://komarev.com/ghpvc/?username=radioheavy&label=Profile%20Views&color=667eea&style=flat-square)](https://github.com/radioheavy)
   [![GitHub followers](https://img.shields.io/github/followers/radioheavy?label=Followers&style=flat-square&color=667eea)](https://github.com/radioheavy?tab=followers)
   [![GitHub Stars](https://img.shields.io/github/stars/radioheavy?label=Stars&style=flat-square&color=667eea)](https://github.com/radioheavy)
   [![Years Badge](https://badges.pufler.dev/years/radioheavy?style=flat-square&color=667eea)](https://github.com/radioheavy)
-
 </div>
-
-<br>
 
 <div align="center">
   <a href="https://github.com/radioheavy">
@@ -23,11 +19,7 @@
   </a>
 </div>
 
-<br>
-
 ---
-
-<br>
 
 ## 👨‍💻 About Me
 
@@ -54,7 +46,7 @@ class Developer {
     frontend: ["React", "Next.js", "React Native", "TailwindCSS", "Redux"],
     backend: ["Node.js", ".NET Core", "Express", "GraphQL", "REST APIs"],
     mobile: ["iOS (Swift)", "React Native", "Xcode"],
-    cloud: [ "Vercel", "Docker", "CI/CD"],
+    cloud: ["Vercel", "Docker", "CI/CD"],
     databases: ["PostgreSQL", "MongoDB", "Redis", "SQLite"]
   };
 
@@ -87,11 +79,7 @@ class Developer {
 ⚡  Fun fact: I debug with console.log and I'm not ashamed!
 ```
 
-<br>
-
 ---
-
-<br>
 
 ## 📊 GitHub Statistics
 
@@ -108,17 +96,11 @@ class Developer {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=radioheavy&custom_title=Oktay's%20Contribution%20Graph&bg_color=0D1117&color=667eea&line=f093fb&point=ffffff&area_color=f093fb&area=true&hide_border=true" alt="Contribution Graph" width="98%"/>
 </div>
 
-<br>
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=radioheavy&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="Trophies" width="98%"/>
 </div>
 
-<br>
-
 ---
-
-<br>
 
 ## 🛠️ Tech Stack & Tools
 
@@ -225,7 +207,6 @@ class Developer {
       <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
       <br>Redis
     </td>
-
   </tr>
 </table>
 
@@ -277,11 +258,7 @@ class Developer {
 
 </div>
 
-<br>
-
 ---
-
-<br>
 
 ## 💼 Professional Skills & Experience
 
@@ -294,8 +271,8 @@ class Developer {
 │  🎨 UI/UX Implementation       ██████████████████░░  90%  │
 │  📱 Mobile Development         █████████████████░░░  85%  │
 │  ☁️  Cloud Architecture         ███████████████░░░░  75%  │
-│  🔐 DevOps & CI/CD            ██████████████░░░░░  70%  │
-│  🤖 AI/ML Integration         ████████░░░░░░░░░░  40%  │
+│  🔐 DevOps & CI/CD            ██████████████░░░░░░  70%  │
+│  🤖 AI/ML Integration         ████████░░░░░░░░░░░░  40%  │
 │  🗄️  Database Design           ████████████████░░░  80%  │
 │  🔧 System Architecture        ███████████████░░░░  75%  │
 │                                                             │
@@ -304,12 +281,7 @@ class Developer {
 
 </div>
 
-<br>
-
 ---
-
-<br>
-
 
 ## 📈 Weekly Development Activity
 
@@ -321,31 +293,21 @@ TypeScript   16 hrs 42 mins  ████████████░░░░░
 C#           8 hrs 12 mins   ██████░░░░░░░░░░░░░░░  24.87%
 React        4 hrs 35 mins   ███░░░░░░░░░░░░░░░░░░  13.91%
 JSON         1 hr 22 mins    █░░░░░░░░░░░░░░░░░░░░   4.16%
-Other        2 hrs 5 mins    ██░░░░░░░░░░░░░░░░░░░   6.39%
+Other        2 hrs 5 mins     ██░░░░░░░░░░░░░░░░░░░   6.39%
 ```
 <!--END_SECTION:waka-->
 
 </div>
 
-<br>
-
 ---
-
-<br>
 
 ## 💭 Dev Quote of the Day
 
 <div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
 
-<br>
-
 ---
-
-<br>
 
 ## 📝 Latest Blog Posts
 
@@ -367,11 +329,7 @@ Other        2 hrs 5 mins    ██░░░░░░░░░░░░░░░
 
 </div>
 
-<br>
-
 ---
-
-<br>
 
 ## 📫 Connect With Me
 
@@ -406,7 +364,7 @@ Other        2 hrs 5 mins    ██░░░░░░░░░░░░░░░
 ║  📝  Medium    : @radioheavy                                ║
 ║  🌐  Portfolio : github.com/radioheavy                      ║
 ║                                                              ║
-║  🤝  Open to collaborations, freelance work,                ║
+║  🤝  Open to collaborations, freelance work,                 ║
 ║      and interesting project opportunities!                 ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
@@ -414,11 +372,7 @@ Other        2 hrs 5 mins    ██░░░░░░░░░░░░░░░
 
 </div>
 
-<br>
-
 ---
-
-<br>
 
 ## 📊 Detailed Analytics
 
@@ -446,12 +400,7 @@ Other        2 hrs 5 mins    ██░░░░░░░░░░░░░░░
 
 </details>
 
-<br>
-
 ---
-
-<br>
-
 
 ## 💖 Support My Work
 
@@ -471,11 +420,7 @@ Other        2 hrs 5 mins    ██░░░░░░░░░░░░░░░
 
 </div>
 
-<br>
-
 ---
-
-<br>
 
 <div align="center">
 
